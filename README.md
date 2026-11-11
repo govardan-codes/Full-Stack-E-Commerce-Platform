@@ -37,3 +37,24 @@ ShopNow is a Full-Stack E-Commerce Platform built with **Core Java, Spring Boot,
 - **Tools:** Maven, Git, JUnit, Mockito, Postman, Agile
 
 ## 📐 Architecture
+Controller -> Service -> Repository -> MySQL
+
+- Applied Design Patterns, Data Structures & Algorithms, OOP
+- RESTful APIs for product, cart & order modules
+- Code Quality practices with Unit Testing & API Testing
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- **Programming Language:** Java 8+
+- **Package Manager:** Maven
+- **Database:** MySQL
+
+### ⚙️ Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/govardan-codes/Full-Stack-E-Commerce-Platform
